@@ -1,0 +1,9 @@
+{
+    "name": "Blitzlight Repo",
+    "description": "Cloudstream Blitzlight Repo",
+    "iconUrl": "https://i.imgur.com/ZENue8x.png",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/CUPANG74/Blitzlight/refs/heads/builds/plugins.json"
+    ]
+}
