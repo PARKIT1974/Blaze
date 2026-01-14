@@ -1,9 +1,9 @@
 {
-    "name": "Blitzlight Repo",
-    "description": "Cloudstream Blitzlight Repo",
+    "name": "Blaze Repo",
+    "description": "Cloudstream Blaze Repo",
     "iconUrl": "https://i.imgur.com/ZENue8x.png",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/CUPANG74/Blitzlight/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/PARKIT1974/Blaze/refs/heads/builds/plugins.json"
     ]
 }
