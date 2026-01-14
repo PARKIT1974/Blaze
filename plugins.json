@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 18618,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "duro92",
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Dutamovie",
+        "description": "DutaMovie",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+	},
+	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
@@ -23,7 +45,7 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://i.imgur.com/DyfDOG1.png",
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 27710,
@@ -43,5 +65,46 @@
 		"description": "MOVIEBOX dari ExtCloud (INDONESIA)",
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBoxProvider.cs3",
         "name": "MovieBoxProvider"
+    },
+    {
+        "iconUrl": "https://i.imgur.com/hKSGoUN.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20149,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz, Blitzlight"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Ngefilm",
+        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+	{
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 18302,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "Oppadrama",
+        "description": "Oppadrama",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
+        "name": "Oppadrama"
     }
 ]
