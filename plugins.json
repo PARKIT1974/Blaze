@@ -22,6 +22,41 @@
         "name": "Dutamovie"
 	},
 	{
+    "iconUrl": "https://labarcadelacultura.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+    "fileSize": 20989,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "version": 1,
+    "internalName": "Indomax",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Indomax.cs3",
+    "name": "Indomax"
+    },
+	{
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://klikxxi.fit&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "Blitzlight"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 33,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/KlikXXi.cs3",
+        "name": "KlikXXI"
+    },
+	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
