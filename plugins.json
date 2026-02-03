@@ -46,25 +46,6 @@
         "name": "AdiDrakor"
     },
 	{
-        "iconUrl": "https://www.dramabox.com/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Danzybae"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "Dramabox",
-        "description": "TV Short Drama - Film Pendek China",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Dramabox.cs3",
-        "name": "Dramabox"
-    },
-	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
