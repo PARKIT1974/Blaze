@@ -83,6 +83,21 @@
     "name": "FilmKita21"
     },
 	{
+    "iconUrl": "https://labarcadelacultura.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+    "fileSize": 20989,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "version": 1,
+    "internalName": "Indomax",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Indomax.cs3",
+    "name": "Indomax"
+    },
+	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv2.kawanfilm21.co&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
