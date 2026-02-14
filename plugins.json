@@ -2,47 +2,41 @@
     {
         "iconUrl": "https://i.imgur.com/7p2D7vM.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/michat88/AdiManuLateri3",
-        "fileSize": 187405,
+        "repositoryUrl": "https://github.com/michat88/PremiumRepo",
+        "fileSize": 236999,
         "status": 1,
         "language": "id",
         "authors": [
-            "AdiManuLateri3",
-            "Trinity"
+            "aldry84"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
-        "version": 179,
+        "version": 8,
         "internalName": "Adicinemax21",
-        "description": "Nonton awas jang sampe buta kawan",
-        "url": "https://raw.githubusercontent.com/michat88/AdiManuLateri3/builds/Adicinemax21.cs3",
+        "url": "https://raw.githubusercontent.com/michat88/PremiumRepo/builds/Adicinemax21.cs3",
         "name": "Adicinemax21"
     },
     {
         "iconUrl": "https://i.imgur.com/C2BzoH1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/michat88/AdiManuLateri3",
-        "fileSize": 160229,
+        "repositoryUrl": "https://github.com/michat88/PremiumRepo",
+        "fileSize": 231492,
         "status": 1,
         "language": "id",
         "authors": [
-            "AdiManuLateri3",
-            "Trinity"
+            "aldry84"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
-        "version": 179,
+        "version": 7,
         "internalName": "AdiDrakor",
-        "description": "Nonton Sampe FBI datang tangkap",
-        "url": "https://raw.githubusercontent.com/michat88/AdiManuLateri3/builds/AdiDrakor.cs3",
+        "url": "https://raw.githubusercontent.com/michat88/PremiumRepo/builds/AdiDrakor.cs3",
         "name": "AdiDrakor"
     },
 	{
