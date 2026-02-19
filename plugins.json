@@ -177,7 +177,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 20451,
         "status": 1,
         "language": "id",
@@ -192,8 +192,7 @@
         "version": 5,
         "internalName": "LayarKacaProvider",
         "description": "Provider dengan Subtitle Indonesia Terbaik (source ExtCloud)",
-        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/LayarKacaProvider.jar",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/LayarKacaProvider.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
