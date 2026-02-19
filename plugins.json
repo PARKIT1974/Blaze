@@ -7,7 +7,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "aldry84"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -27,7 +27,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "aldry84"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -46,7 +46,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Danzybae"
+            "Blaze"
         ],
         "tvTypes": [
             "TvSeries",
@@ -66,7 +66,6 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "duro92",
             "Blaze"
         ],
         "tvTypes": [
@@ -87,7 +86,7 @@
     "fileSize": 22088,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
+    "authors": ["Blaze"],
     "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
     "version": 1,
     "internalName": "FilmKita21",
@@ -102,7 +101,7 @@
     "fileSize": 20989,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
+    "authors": ["Blaze"],
     "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
     "version": 1,
     "internalName": "Indomax",
@@ -118,7 +117,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Duro92"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -140,7 +139,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98,Hexated,Peerless"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -161,7 +160,7 @@
         "status": 1,
         "language": "id",        
         "authors": [
-            "Blitzlight"
+            "Blaze"
         ],
         "tvTypes": [
             "Movie Terbaru",
@@ -183,7 +182,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Blitzlight, Phisher98"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -204,10 +203,8 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "NivinCNC",
-            "Phisher98",
-            "Sofie99"
-        ],
+            "Blaze"
+            ],
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -228,7 +225,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtCloud"
+            "Blaze"
         ],
         "tvTypes": [
             "TvSeries",
@@ -249,7 +246,7 @@
         "fileSize": 47674,
         "status": 1,
         "authors": [
-            "megix"
+            "Blaze"
         ],
         "tvTypes": [
             "Movie",
@@ -271,7 +268,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "CodeSannz, Blitzlight"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -292,7 +289,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -313,7 +310,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Duro92"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -327,6 +324,28 @@
         "name": "Oppadrama"
     },
 	{
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "fileSize": 39020,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Sflix",
+        "description": "Sflix - Movie & Series Subtitle Indonesia",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Sflix.cs3",
+        "name": "Sflix"
+    },
+	{
         "iconUrl": "https://i.imgur.com/fJnynrg.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
@@ -334,8 +353,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated",
-            "Sora"
+            "Blaze"
         ],
         "tvTypes": [
             "AsianDrama",
