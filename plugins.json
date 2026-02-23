@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://i.imgur.com/7p2D7vM.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/michat88/PremiumRepo",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 236999,
         "status": 1,
         "language": "id",
@@ -16,13 +16,13 @@
         ],
         "version": 8,
         "internalName": "Adicinemax21",
-        "url": "https://raw.githubusercontent.com/michat88/PremiumRepo/builds/Adicinemax21.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Adicinemax21.cs3",
         "name": "Adicinemax21"
     },
     {
         "iconUrl": "https://i.imgur.com/C2BzoH1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/michat88/PremiumRepo",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 231492,
         "status": 1,
         "language": "id",
@@ -36,7 +36,7 @@
         ],
         "version": 7,
         "internalName": "AdiDrakor",
-        "url": "https://raw.githubusercontent.com/michat88/PremiumRepo/builds/AdiDrakor.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/AdiDrakor.cs3",
         "name": "AdiDrakor"
     },
 	{
