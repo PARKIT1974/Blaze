@@ -60,6 +60,27 @@
         "name": "CNC Verse"
     },
 	{
+        "iconUrl": "https://i.imgur.com/ZJNS2Z8.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "fileSize": 94568,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "DracinProvider",
+        "description": "Multi-source drama & movie streaming provider (DramaBox, NetShort, FlickReels, Melolo, ReelShort, FreeReels)",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/DracinProvider.cs3",
+        "name": "DracinProvider"
+    },
+	{
         "iconUrl": "https://www.dramabox.com/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
