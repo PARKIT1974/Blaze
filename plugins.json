@@ -372,7 +372,7 @@
         "iconUrl": "https://i.imgur.com/oNUfhbv.png",
         "jarFileSize": 116930,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 26883,
         "status": 1,
         "language": "id",
@@ -385,9 +385,8 @@
         ],
         "version": 1,
         "internalName": "Reelshort",
-        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Reelshort.jar",
         "description": "ReelShort menyediakan drama pendek yang memuaskan hati",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Reelshort.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Reelshort.cs3",
         "name": "Reelshort"
     },
 	{
