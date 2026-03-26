@@ -263,6 +263,25 @@
         "name": "LayarKacaProvider"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/angahjee1994/testrepo/refs/heads/main/Melolo/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/angahjee1994/testrepo",
+        "fileSize": 26377,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Melolo",
+        "description": "Streaming Drama Melolo",
+        "url": "https://raw.githubusercontent.com/angahjee1994/testrepo/Builds/Melolo.cs3",
+        "name": "Melolo"
+    },
+	{
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
