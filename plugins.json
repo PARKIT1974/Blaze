@@ -424,9 +424,9 @@
         ],
         "version": 1,
         "internalName": "Reelshort",
-        "jarUrl": "https://raw.githubusercontent.com/youqiq/OutCloud/builds/Reelshort.jar",
+        "jarUrl": "https://raw.githubusercontent.com/youqiq/OutCloud/Builds/Reelshort.jar",
         "description": "ReelShort",
-        "url": "https://raw.githubusercontent.com/youqiq/OutCloud/builds/Reelshort.cs3",
+        "url": "https://github.com/youqiq/OutCloud/raw/refs/heads/Builds/Reelshort.cs3",
         "name": "Reelshort"
     },
 	{
