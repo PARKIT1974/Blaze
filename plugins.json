@@ -307,7 +307,7 @@
 	{
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "repositoryUrl": "https://github.com/danzybae/x5leaf",
         "status": 1,
         "language": "id",
         "authors": [
@@ -322,13 +322,13 @@
         "version": 3,
         "internalName": "MovieBox",
         "description": "MOVIEBOX dari x5leaf Short Movie Berfungsi (INDONESIA)",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
+        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/MovieBox.cs3",
         "name": "MovieBox"
     },
 	{
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
         "fileSize": 27710,
         "status": 1,
         "language": "id",
@@ -344,7 +344,7 @@
         "version": 4,
         "internalName": "MovieBoxProvider",
 		"description": "MOVIEBOX dari ExtCloud (INDONESIA)",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/MovieBoxProvider.cs3",
         "name": "MovieBoxProvider"
     },
     {
