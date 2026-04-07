@@ -122,7 +122,7 @@
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s3.iix.llc&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 25728,
         "status": 1,
         "language": "id",
@@ -137,13 +137,13 @@
         "version": 1,
         "internalName": "Filmkita",
         "description": "📺 Streaming Movie and TV Series",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Filmkita.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Filmkita.cs3",
         "name": "Filmkita"
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 67126,
         "status": 1,
         "language": "id",
@@ -157,13 +157,13 @@
         "version": 1,
         "internalName": "FreeReels",
         "description": "FreeReels short drama provider",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/FreeReels.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/FreeReels.cs3",
         "name": "FreeReels"
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fufafilm.com&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 31473,
         "status": 1,
         "language": "id",
@@ -178,7 +178,7 @@
         "version": 3,
         "internalName": "Fufafilm",
         "description": "Fufafilm",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Fufafilm.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Fufafilm.cs3",
         "name": "Fufafilm"
     },
 	{
@@ -264,7 +264,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 20451,
         "status": 1,
         "language": "id",
@@ -279,14 +279,14 @@
         "version": 5,
         "internalName": "LayarKacaProvider",
         "description": "Provider dengan Subtitle Indonesia Terbaik (source ExtCloud)",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/LayarKacaProvider.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
         "iconUrl": "https://i.imgur.com/Kx9r1x0.png",
          "jarFileSize": 150037,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 30776,
         "status": 1,
         "language": "id",
@@ -301,7 +301,7 @@
         "internalName": "Melolo",
         "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Melolo.jar",
         "description": "Melolo Short Drama Provider",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Melolo.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Melolo.cs3",
         "name": "Melolo"
     },
 	{
@@ -326,28 +326,6 @@
         "name": "MovieBox"
     },
 	{
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
-        "fileSize": 27710,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 4,
-        "internalName": "MovieBoxProvider",
-		"description": "MOVIEBOX dari ExtCloud (INDONESIA)",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/MovieBoxProvider.cs3",
-        "name": "MovieBoxProvider"
-    },
-    {
         "iconUrl": "https://i.imgur.com/hKSGoUN.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
