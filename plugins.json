@@ -161,6 +161,27 @@
         "name": "FreeReels"
     },
 	{
+        "iconUrl": "https://z1.idlixku.com/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/danzybae/x5leaf",
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "Idlix",
+        "description": "Movies & Series",
+        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+	{
     "iconUrl": "https://utopiautila.com/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
@@ -218,26 +239,6 @@
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
-    },
-	{
-        "iconUrl": "https://i.imgur.com/Jj7TSJd.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 26335,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "KlikFilm",
-        "description": "Nonton 29+ platform Drama Pendek China & Korea sub Indo gratis. BiliTV, DramaBox, Melolo, dan banyak lagi.",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/KlikFilm.cs3",
-        "name": "KlikFilm"
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://klikxxi.fit&size=%size%",
