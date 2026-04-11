@@ -99,26 +99,6 @@
         "name": "Dramabox"
     },
 	{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 31602,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "DramaidProvider",
-        "description": "Daramaid",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/DramaidProvider.cs3",
-        "name": "DramaidProvider"
-    },
-	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
@@ -181,27 +161,6 @@
         "name": "FreeReels"
     },
 	{
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fufafilm.com&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 31473,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Fufafilm",
-        "description": "Fufafilm",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Fufafilm.cs3",
-        "name": "Fufafilm"
-    },
-	{
     "iconUrl": "https://utopiautila.com/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
@@ -261,7 +220,7 @@
         "name": "KisskhProvider"
     },
 	{
-        "iconUrl": "https://klikfilm.web.id/favicon.ico",
+        "iconUrl": "https://i.imgur.com/Jj7TSJd.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 26335,
