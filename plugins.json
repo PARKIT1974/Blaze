@@ -99,6 +99,26 @@
         "name": "Dramabox"
     },
 	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 21183,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "DramaidProvider",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+    },
+	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
