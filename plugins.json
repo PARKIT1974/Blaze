@@ -453,7 +453,7 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/SoraStream.cs3",
         "name": "SoraStream"
-    }
+    },
 	{
         "iconUrl": "https://raw.githubusercontent.com/angahjee1994/testrepo/refs/heads/main/loklok/logo.png",
         "jarFileSize": 164295,
@@ -475,5 +475,5 @@
         "description": "Loklok - Asian Dramas",
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/loklok.cs3",
         "name": "Loklok"
-    },
+    }
 ]
