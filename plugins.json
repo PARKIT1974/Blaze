@@ -454,4 +454,26 @@
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/SoraStream.cs3",
         "name": "SoraStream"
     }
+	{
+        "iconUrl": "https://raw.githubusercontent.com/angahjee1994/testrepo/refs/heads/main/loklok/logo.png",
+        "jarFileSize": 164295,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "fileSize": 37446,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Loklok",
+        "jarUrl": "https://raw.githubusercontent.com/angahjee1994/testrepo/Builds/loklok.jar",
+        "description": "Loklok - Asian Dramas",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/loklok.cs3",
+        "name": "Loklok"
+    },
 ]
