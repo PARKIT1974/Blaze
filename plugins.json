@@ -94,7 +94,7 @@
         ],
         "version": 2,
         "internalName": "Dramabox",
-        "description": "TV Short Drama",
+        "description": "TV Short Drama direct Leaf",
         "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Dramabox.cs3",
         "name": "Dramabox"
     },
@@ -177,7 +177,7 @@
         ],
         "version": 4,
         "internalName": "Idlix",
-        "description": "Movies & Series",
+        "description": "Movies & Series direct Leaf",
         "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
         "name": "Idlix"
     },
@@ -343,7 +343,7 @@
         ],
         "version": 3,
         "internalName": "MovieBox",
-        "description": "MOVIEBOX dari x5leaf Short Movie Berfungsi (INDONESIA)",
+        "description": "MOVIEBOX direct Leaf Short Movie Berfungsi (INDONESIA)",
         "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/MovieBox.cs3",
         "name": "MovieBox"
     },
