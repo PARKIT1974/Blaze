@@ -457,14 +457,15 @@
     },
 	{
         "iconUrl": "https://i.imgur.com/fJnynrg.png",
-        "fileHash": "sha256-7ec1b0640cb30cf7bfb481f335fecbd4833dfb2af31170444899f69d28afe5e8",
+        "fileHash": "sha256-6c5e86e35364dc88a677ec1175f78d94721c0b39a6390b0be00df37689fa3e35",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
-        "fileSize": 214007,
+        "fileSize": 243752,
         "status": 1,
         "language": "en",
         "authors": [
-            "Blaze"
+            "Blaze",
+            "Blitz"
         ],
         "tvTypes": [
             "AsianDrama",
