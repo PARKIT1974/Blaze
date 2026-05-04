@@ -287,28 +287,6 @@
         "name": "Loklok"
     },
 	{
-        "iconUrl": "https://i.imgur.com/Kx9r1x0.png",
-         "jarFileSize": 150037,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 30776,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 3,
-        "internalName": "Melolo",
-        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Melolo.jar",
-        "description": "Melolo Short Drama Provider",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Melolo.cs3",
-        "name": "Melolo"
-    },
-	{
         "iconUrl": "https://i.imgur.com/DyfDOG1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
