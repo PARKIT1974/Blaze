@@ -309,7 +309,7 @@
         "name": "Melolo"
     },
 	{
-        "iconUrl": "https://moviebox.ph/favicon.ico",
+        "iconUrl": "https://i.imgur.com/DyfDOG1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
         "status": 1,
@@ -328,6 +328,27 @@
         "description": "MOVIEBOX direct Leaf Short Movie Berfungsi (INDONESIA)",
         "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/MovieBox.cs3",
         "name": "MovieBox"
+    },
+	{
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "fileHash": "sha256-bb83ddaca917a3ea375a7af0c2bc2d9d74b1bd5ca75a40891efcde1ef9dc1500",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
+        "fileSize": 38420,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "MovieBoxProvider",
+        "description": "MOVIEBOX Provider direct M Stream (INDONESIA)",
+        "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
     },
 	{
         "iconUrl": "https://i.imgur.com/hKSGoUN.png",
