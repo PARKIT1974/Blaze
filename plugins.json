@@ -225,7 +225,7 @@
         "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
         "fileHash": "sha256-cd6042d5390fe7e3c148d2fea57a6150287c108745ea6185ff7f23b5241c9c33",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "fileSize": 35875,
         "status": 1,
         "language": "id",
@@ -239,7 +239,7 @@
         "version": 9,
         "internalName": "Klikxxi",
         "description": "Klikxxi dari M Stream",
-        "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/Klikxxi.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Klikxxi.cs3",
         "name": "Klikxxi"
     },
 	{
@@ -460,7 +460,7 @@
         "name": "SoraStream"
     },
 	{
-        "iconUrl": "https://raw.githubusercontent.com/michat88/Zaneta/aa97004f4d1d74ed69245e56da2c6ad3293b6106/Icons/Adi.png",
+        "iconUrl": "https://i.imgur.com/IBEgnFc.png",
         "fileHash": "sha256-73d39fdc4a9a317cab2d8d11a36fdb85f236e15cbeb47fa2bdccbc0b631b6d93",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
