@@ -243,6 +243,28 @@
         "name": "Klikxxi"
     },
 	{
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://layarasia.site&size=%size%",
+        "fileHash": "sha256-8afcff5eafcfd14e7dff7fe7df5997cb3b5825e3bb4fe72454fe402d5c81a0b4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
+        "fileSize": 32343,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "LayarAsiaProvider",
+        "description": "LayarAsia Streaming Drama Korean, Movie and TV Series",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarAsiaProvider.cs3",
+        "name": "LayarAsiaProvider"
+    },
+	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
@@ -265,28 +287,6 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://i.imgur.com/TW0DgKJ.png",
-        "jarFileSize": 164295,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 37446,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Loklok",
-        "jarUrl": "https://raw.githubusercontent.com/angahjee1994/testrepo/Builds/loklok.jar",
-        "description": "Loklok - Asian Dramas",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/loklok.cs3",
-        "name": "Loklok"
-    },
-	{
         "iconUrl": "https://i.imgur.com/DyfDOG1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
@@ -415,9 +415,10 @@
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=%size%",
+         "fileHash": "sha256-896c72b6af79649a21aae65b7b90f9ec0c0b77cae26c456010dfde3ccbe37d6d",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 39020,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
+        "fileSize": 35604,
         "status": 1,
         "language": "id",
         "authors": [
@@ -429,9 +430,8 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "Sflix",
-        "description": "Sflix - Movie & Series Subtitle Indonesia",
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Sflix.cs3",
         "name": "Sflix"
     },
