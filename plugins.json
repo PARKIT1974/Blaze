@@ -40,26 +40,6 @@
         "name": "AdiDrakor"
     },
 	{
-        "iconUrl": "https://i.imgur.com/X2J2pfT.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 39800,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "Cinemacity",
-        "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
-        "name": "Cinemacity"
-    },
-	{
         "iconUrl": "https://i.imgur.com/as7GLB4.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
