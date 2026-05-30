@@ -225,24 +225,25 @@
     },
 	{
         "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
-        "fileHash": "sha256-cd6042d5390fe7e3c148d2fea57a6150287c108745ea6185ff7f23b5241c9c33",
+        "fileHash": "sha256-5497abe710666ddba6a4482e609cda39bf908cf9a6cf2d8b49008c4dcda177b2",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 35875,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "fileSize": 34334,
         "status": 1,
         "language": "id",
         "authors": [
             "Blaze"
         ],
         "tvTypes": [
+            "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
-        "internalName": "Klikxxi",
-        "description": "Klikxxi dari M Stream",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Klikxxi.cs3",
-        "name": "Klikxxi"
+        "version": 7,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI direct Repair",
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/KlikXXI.cs3",
+        "name": "KlikXXI"
     },
 	{
         "iconUrl": "https://i.imgur.com/U47Yn2n.png",
@@ -268,10 +269,10 @@
     },
 	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
-        "jarFileSize": 89768,
+        "fileHash": "sha256-7f25218bcd8088ca54377ec4582f31d03e02745e0baee4e87f3dc69e0cf84b7c",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 20451,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "fileSize": 45822,
         "status": 1,
         "language": "id",
         "authors": [
@@ -282,10 +283,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "LayarKacaProvider",
-        "description": "Provider dengan Subtitle Indonesia Terbaik (source ExtCloud)",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
+		"description": "Provider dengan Subtitle Indonesia Terbaik (direct Repair)",
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
