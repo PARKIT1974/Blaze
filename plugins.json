@@ -227,7 +227,7 @@
         "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
         "fileHash": "sha256-5497abe710666ddba6a4482e609cda39bf908cf9a6cf2d8b49008c4dcda177b2",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
         "fileSize": 34334,
         "status": 1,
         "language": "id",
@@ -241,8 +241,8 @@
         ],
         "version": 7,
         "internalName": "KlikXXI",
-        "description": "KlikXXI direct Repair",
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/KlikXXI.cs3",
+        "description": "KlikXXI source Repair",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/KlikXXI.cs3",
         "name": "KlikXXI"
     },
 	{
