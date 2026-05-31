@@ -125,17 +125,17 @@
         "name": "Filmkita"
     },
 	{
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/FourKHDHub.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "FourKHDHub",
         "internalName": "FourKHDHub",
         "authors": [
             "Blaze"
         ],
         "description": "4K Movies Extension by HDHUB4U",
-        "fileSize": 66627,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
+        "fileSize": 66651,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
             "Movie",
@@ -143,7 +143,7 @@
         ],
         "iconUrl": "https://i.imgur.com/vghZj6g.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-2c10851f404e3106874768ca6ca99fe2f369650476470d15f7e20501baa494d3"
+        "fileHash": "sha256-718579b0f36780424fbb081d1063a75a2c9a7133131d2b9e35524cca8cbbe8e9"
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
