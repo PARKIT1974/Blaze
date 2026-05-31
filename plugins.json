@@ -268,7 +268,7 @@
         "name": "LayarAsiaProvider"
     },
 	{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "iconUrl": "https://i.imgur.com/ma0Qbjc.png",
         "fileHash": "sha256-7f25218bcd8088ca54377ec4582f31d03e02745e0baee4e87f3dc69e0cf84b7c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
@@ -287,6 +287,28 @@
         "internalName": "LayarKacaProvider",
 		"description": "Provider dengan Subtitle Indonesia Terbaik (direct Repair)",
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "jarFileSize": 89768,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "fileSize": 20451,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "LayarKacaProvider",
+        "description": "Provider dengan Subtitle Indonesia Terbaik (source M Stream)",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
