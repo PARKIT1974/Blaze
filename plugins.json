@@ -290,6 +290,27 @@
         "name": "LayarAsiaProvider"
     },
 	{
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "LayarKaca",
+        "internalName": "LayarKaca",
+        "authors": [
+            "Blaze"
+        ],
+        "description": "Direct to Cs-K. Nonton dan download film & series terbaru di LK21.",
+        "fileSize": 23789,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://i.imgur.com/ma0Qbjc.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d8c55ba6792e68834fec08c948b067ad19da707dcecb7ab3296175a60c85fd37"
+    },
+	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
