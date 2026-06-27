@@ -333,25 +333,27 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://i.imgur.com/DyfDOG1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/MovieBox.cs3",
         "status": 1,
-        "language": "id",
-        "authors": [
+        "version": 6,
+        "name": "MovieBox",
+        "internalName": "MovieBox",
+		"authors": [
             "Blaze"
             ],
+        "description": "MOVIEBOX direct Leaf Short Movie Berfungsi dan ada khusus pakai SEARCH (INDONESIA)",
+        "fileSize": 57905,
+        "repositoryUrl": "https://github.com/danzybae/x5leaf",
+        "language": "id",
         "tvTypes": [
             "TvSeries",
             "Movie",
             "Anime",
             "AsianDrama"
         ],
-        "version": 3,
-        "internalName": "MovieBox",
-        "description": "MOVIEBOX source Leaf Short Movie Berfungsi dan ada khusus (INDONESIA)",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
-        "name": "MovieBox"
+        "iconUrl": "https://i.imgur.com/DyfDOG1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6f6ea59ce096dac66fc41ba01d8a42222a02eaa6f05ccc631f55cfa4b7a922ff"
     },
 	{
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
