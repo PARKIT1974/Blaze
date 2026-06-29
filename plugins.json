@@ -1,43 +1,66 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Adicinemax21.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Adicinemax21",
+        "internalName": "Adicinemax21",
+        "authors": [
+            "Blaze"
+        ],
+        "fileSize": 129767,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
         "iconUrl": "https://i.imgur.com/7p2D7vM.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 236999,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 8,
-        "internalName": "Adicinemax21",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Adicinemax21.cs3",
-        "name": "Adicinemax21"
+        "fileHash": "sha256-ab60e459bc85f52eb221008a129d3fff1b155842d4a9e06bce712a5b51f083f9"
     },
     {
-        "iconUrl": "https://i.imgur.com/C2BzoH1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 231492,
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiDrakor.cs3",
         "status": 1,
-        "language": "id",
+        "version": 9,
+        "name": "AdiDrakor",
+        "internalName": "AdiDrakor",
         "authors": [
             "Blaze"
         ],
+        "fileSize": 103552,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "id",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
-        "internalName": "AdiDrakor",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/AdiDrakor.cs3",
-        "name": "AdiDrakor"
+        "iconUrl": "https://i.imgur.com/C2BzoH1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-06978dcb1d1193380a3407aa0634260915af4f05a39b94a7006aced47cf79808"
+    },
+	{
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiXtream.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "AdiXtream",
+        "internalName": "AdiXtream",
+        "authors": [
+            "Blaze"
+        ],
+        "fileSize": 88125,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://i.imgur.com/IBEgnFc.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-696459b193f5ea8739de1cb2f2e1099897f75a23f290d439a7e0d8e24855ed02"
     },
 	{
         "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
@@ -507,26 +530,5 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/SoraStream.cs3",
         "name": "SoraStream"
-    },
-	{
-        "iconUrl": "https://i.imgur.com/IBEgnFc.png",
-        "fileHash": "sha256-73d39fdc4a9a317cab2d8d11a36fdb85f236e15cbeb47fa2bdccbc0b631b6d93",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 80436,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 12,
-        "internalName": "XStream",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/XStream.cs3",
-        "name": "XStream"
     }
 ]
