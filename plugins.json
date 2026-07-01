@@ -271,26 +271,26 @@
         "name": "KisskhProvider"
     },
 	{
-        "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
-        "fileHash": "sha256-5497abe710666ddba6a4482e609cda39bf908cf9a6cf2d8b49008c4dcda177b2",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
-        "fileSize": 34334,
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/KlikXXI.cs3",
         "status": 1,
-        "language": "id",
+        "version": 7,
+        "name": "KlikXXI",
+        "internalName": "KlikXXI",
         "authors": [
             "Blaze"
         ],
+        "description": "Klikxxi direct Repair",
+        "fileSize": 33643,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "id",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
-        "internalName": "KlikXXI",
-        "description": "Klikxxi direct Repair",
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/KlikXXI.cs3",
-        "name": "KlikXXI"
+        "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0bfd34d69e57338a9627bdf06b2748e596d18db36f8dfec3e5c7ed4d16163b34"
     },
 	{
         "iconUrl": "https://i.imgur.com/U47Yn2n.png",
