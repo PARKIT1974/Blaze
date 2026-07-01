@@ -197,8 +197,7 @@
         "authors": [
             "Blaze"
         ],
-        "description": "Movies & Series",
-        "fileSize": 53616,
+        "description": "Movies & Series direct to Leaf",
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
         "language": "id",
         "tvTypes": [
@@ -209,7 +208,6 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9e03132eb2d1454ec3d85c9a216b95c83fbcd010859341102e698563e2a66f40"
     },
 	{
     "iconUrl": "https://utopiautila.com/favicon.ico",
