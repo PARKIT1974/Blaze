@@ -189,17 +189,17 @@
         "name": "FreeReels"
     },
 	{
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Idlix.cs3",
+        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
         "status": 1,
         "version": 10,
         "name": "Idlix",
         "internalName": "Idlix",
         "authors": [
-            "Blaze"
+            "Phisher98"
         ],
-        "description": "Movies & Series direct to Leaf",
-		"fileSize": 53616,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
+        "description": "Movies & Series",
+        "fileSize": 53616,
+        "repositoryUrl": "https://github.com/danzybae/x5leaf",
         "language": "id",
         "tvTypes": [
             "TvSeries",
@@ -209,6 +209,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
+        "fileHash": "sha256-9e03132eb2d1454ec3d85c9a216b95c83fbcd010859341102e698563e2a66f40"
     },
 	{
     "iconUrl": "https://utopiautila.com/favicon.ico",
