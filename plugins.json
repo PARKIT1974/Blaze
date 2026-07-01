@@ -189,7 +189,7 @@
         "name": "FreeReels"
     },
 	{
-        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Idlix.cs3",
         "status": 1,
         "version": 10,
         "name": "Idlix",
@@ -198,7 +198,8 @@
             "Blaze"
         ],
         "description": "Movies & Series direct to Leaf",
-        "repositoryUrl": "https://github.com/danzybae/x5leaf",
+		"fileSize": 53616,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
         "language": "id",
         "tvTypes": [
             "TvSeries",
