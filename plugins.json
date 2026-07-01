@@ -277,9 +277,9 @@
         "name": "KlikXXI",
         "internalName": "KlikXXI",
         "authors": [
-            "Blaze"
+            "aldry84"
         ],
-        "description": "Klikxxi direct Repair",
+        "description": "request @ian_hiro",
         "fileSize": 33643,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
@@ -288,7 +288,7 @@
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
+        "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon-60x60.png",
         "apiVersion": 1,
         "fileHash": "sha256-0bfd34d69e57338a9627bdf06b2748e596d18db36f8dfec3e5c7ed4d16163b34"
     },
