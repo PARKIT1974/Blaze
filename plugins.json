@@ -8,7 +8,7 @@
         "authors": [
             "Blaze"
         ],
-        "fileSize": 129767,
+        "fileSize": 130638,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://i.imgur.com/7p2D7vM.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ab60e459bc85f52eb221008a129d3fff1b155842d4a9e06bce712a5b51f083f9"
+        "fileHash": "sha256-a1f98a36280aa554df4e3c2b80586ea00ecfc45cf9dbdaf70a1c0c3d0178d7ca"
     },
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiDrakor.cs3",
@@ -29,7 +29,7 @@
         "authors": [
             "Blaze"
         ],
-        "fileSize": 103552,
+        "fileSize": 127112,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://i.imgur.com/C2BzoH1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-06978dcb1d1193380a3407aa0634260915af4f05a39b94a7006aced47cf79808"
+        "fileHash": "sha256-dd3a557e9e669de0f9609f5c82f8b3827afcdafeabeaaa4235fe84418b131340"
     },
 	{
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiXtream.cs3",
