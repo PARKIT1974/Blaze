@@ -189,25 +189,27 @@
         "name": "FreeReels"
     },
 	{
-        "iconUrl": "https://z1.idlixku.com/favicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/danzybae/x5leaf",
+        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
         "status": 1,
-        "language": "id",
+        "version": 10,
+        "name": "Idlix",
+        "internalName": "Idlix",
         "authors": [
             "Blaze"
         ],
+        "description": "Movies & Series direct Leaf",
+        "fileSize": 53616,
+        "repositoryUrl": "https://github.com/danzybae/x5leaf",
+        "language": "id",
         "tvTypes": [
             "TvSeries",
             "Movie",
             "Anime",
             "AsianDrama"
         ],
-        "version": 4,
-        "internalName": "Idlix",
-        "description": "Movies & Series direct Leaf",
-        "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/Idlix.cs3",
-        "name": "Idlix"
+        "iconUrl": "https://z1.idlixku.com/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-9e03132eb2d1454ec3d85c9a216b95c83fbcd010859341102e698563e2a66f40"
     },
 	{
     "iconUrl": "https://utopiautila.com/favicon.ico",
@@ -358,14 +360,14 @@
     {
         "url": "https://raw.githubusercontent.com/danzybae/x5leaf/builds/MovieBox.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "MovieBox",
         "internalName": "MovieBox",
         "authors": [
             "Blaze"
             ],
         "description": "MOVIEBOX direct Leaf Short TV Berfungsi dan ada khusus pakai SEARCH juga bagus (INDONESIA)",
-        "fileSize": 61765,
+        "fileSize": 62844,
         "repositoryUrl": "https://github.com/danzybae/x5leaf",
         "language": "id",
         "tvTypes": [
@@ -374,9 +376,9 @@
             "Anime",
             "AsianDrama"
         ],
-        "iconUrl": "https://i.imgur.com/DyfDOG1.png",
+        "iconUrl": "https://i.imgur.com/dtIQAxr.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-8618afc6e666416c2e051a344484f1d546938722007faa363ba0d20b2aa695fd"
+        "fileHash": "sha256-77ccde0b6becb730b1a0ea86dd3f33703b2ea79ba447fce92f1c91af876a4259"
     },
 	{
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
