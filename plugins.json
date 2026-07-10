@@ -85,26 +85,6 @@
         "name": "BilibiliProvider"
     },
 	{
-        "iconUrl": "https://i.imgur.com/as7GLB4.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 62933,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 51,
-        "internalName": "CNC Verse",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
-        "name": "CNC Verse"
-    },
-	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
         "fileHash": "sha256-486ed02843c25b0d7568d73c15fc9500ea435f774840545b7478373de34c5ea3",
         "apiVersion": 1,
