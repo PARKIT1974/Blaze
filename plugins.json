@@ -302,14 +302,14 @@
 	{
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "status": 1,
-        "version": 5,
+        "version": 11,
         "name": "LayarKacaProvider",
         "internalName": "LayarKacaProvider",
         "authors": [
             "Blaze"
         ],
-        "description": "Provider dengan Subtitle Indonesia Terbaik (source Bet bet)",
-        "fileSize": 60418,
+        "description": "Provider dengan Subtitle Indonesia Terbaik (source Mesra M)",
+        "fileSize": 32151,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "language": "id",
         "tvTypes": [
@@ -317,33 +317,11 @@
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "iconUrl": "https://i.imgur.com/qwLT5PG.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7471430a0046f71fc9ca6f3c74ef9e885c5cb76e81bbc350bacd8adbeb4b1725"
+        "fileHash": "sha256-4b1399c3e5731fe8b8fd9bff4c557d096469ddaeec513907723f33cffa64805a"
     },
     {
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/LayarKacaProvider.cs3",
-        "status": 1,
-        "version": 9,
-        "name": "LayarKacaProvider",
-        "internalName": "LayarKacaProvider",
-		"description": "LayarKaca21 Subtitle Indonesia Terbaik (direct R epa ir Pre mi um)",
-        "authors": [
-            "Blaze"
-        ],
-        "fileSize": 64918,
-        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
-        "language": "id",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://i.imgur.com/WT9VcVH.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-1c77af87e05903d7710614b264064df31a10dfd1bef3ff6e4e822c9ca8e77d9b"
-    },
-	{
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
         "status": 1,
         "version": 5,
