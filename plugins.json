@@ -302,14 +302,14 @@
 	{
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "status": 1,
-        "version": 11,
+        "version": 10,
         "name": "LayarKacaProvider",
         "internalName": "LayarKacaProvider",
         "authors": [
             "Blaze"
         ],
-        "description": "Provider dengan Subtitle Indonesia Terbaik (source Mesra M)",
-        "fileSize": 32151,
+        "description": "Provider dengan Subtitle Indonesia Terbaik (source Phi s her)",
+        "fileSize": 88671,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
         "language": "id",
         "tvTypes": [
@@ -319,7 +319,7 @@
         ],
         "iconUrl": "https://i.imgur.com/qwLT5PG.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4b1399c3e5731fe8b8fd9bff4c557d096469ddaeec513907723f33cffa64805a"
+        "fileHash": "sha256-1b1099cde8594ccb313a2037e76d8f1e7715ceafd3d05859150e96044e3fe3fd"
     },
     {
         "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
