@@ -107,6 +107,27 @@
         "name": "Dutamovie"
     },
 	{
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s3.iix.llc&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
+        "fileSize": 25728,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blaze"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Filmkita",
+        "description": "📺 Streaming Movie and TV Series",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Filmkita.cs3",
+        "name": "Filmkita"
+    },
+	{
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
         "status": 1,
         "version": 35,
