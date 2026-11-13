@@ -251,26 +251,26 @@
         "fileHash": "sha256-df6d5d0d07fee80e63bd0dbf77f4dcb207c847050b23b0e1f5aeb5327cc2d79e"
     },
 	{
-        "iconUrl": "https://i.imgur.com/qwLT5PG.png",
-        "fileHash": "sha256-b2d0eb523801e132a1a6b89e21fae8ce7f7e7a61edb3ce520e78a71fc4bc9515",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "description": "Provider dengan Subtitle Indonesia Terbaik (direct Ext Cloud)",
-		"fileSize": 67422,
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
         "status": 1,
-        "language": "id",
+        "version": 10,
+        "name": "LayarKacaProvider",
+        "internalName": "LayarKacaProvider",
         "authors": [
             "Blaze"
         ],
+        "description": "Provider dengan Subtitle Indonesia Terbaik (direct Phi sh er)",
+		"fileSize": 81783,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "id",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
-        "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/LayarKacaProvider.cs3",
-        "name": "LayarKacaProvider"
+        "iconUrl": "https://i.imgur.com/qwLT5PG.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab4c1576695e5be60d542d19326d2d7180dd1ac4ecf7daa98304a92ab39f4410"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
