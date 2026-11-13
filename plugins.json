@@ -107,37 +107,16 @@
         "name": "Dutamovie"
     },
 	{
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s3.iix.llc&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "fileSize": 25728,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Filmkita",
-        "description": "📺 Streaming Movie and TV Series",
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Filmkita.cs3",
-        "name": "Filmkita"
-    },
-	{
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
         "status": 1,
-        "version": 35,
+        "version": 41,
         "name": "FourKHDHub",
         "internalName": "FourKHDHub",
         "authors": [
             "Blaze"
         ],
         "description": "4K Movies Extension by HDHUB4U (direct P h i sher)",
-        "fileSize": 66772,
+        "fileSize": 100180,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -146,12 +125,9 @@
         ],
         "iconUrl": "https://i.imgur.com/vghZj6g.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-7963af48ac35e62f98b2f00b6b29547dcdb3677ccd9108a92ba9ca1c9cdffff6",
-        "jarFileSize": 293799,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.jar",
-        "jarHash": "sha256-c1f606afbf0f6f2b5743d45d2f5e9942c031eeb1d69185be09fc249ab82446a1"
-    },
-	{
+        "fileHash": "sha256-2a74b05dff6bc726c4c940db46613a4a3c0eb75e2f408c1f717f6a9aaf910ce6"
+   },
+   {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
@@ -231,29 +207,26 @@
         "name": "Kawanfilm"
     },
 	{
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "iconUrl": "https://i.imgur.com/L9tDua0.png",
+        "fileHash": "sha256-1ce685033675ba75231f9d5327d1d06764a5b2883a88a205882a512606489592",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 31961,
         "status": 1,
-        "version": 20,
-        "name": "KisskhProvider",
-        "internalName": "KisskhProvider",
+        "language": "id",
         "authors": [
             "Blaze"
         ],
-        "fileSize": 39518,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Anime",
             "Movie"
         ],
-        "iconUrl": "https://i.imgur.com/L9tDua0.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-2af599bb6e6209c3a230c6de5b7adb6f2ac1db63a8580791cd89e3ed679e1e6c",
-        "jarFileSize": 156754,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-        "jarHash": "sha256-fa01d3df3e645a012f1dbc6230113d5040ccb004ebc2e9d020aef7fed1c9721d"
+        "version": 16,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
     },
 	{
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/KlikXXI.cs3",
@@ -278,39 +251,39 @@
         "fileHash": "sha256-df6d5d0d07fee80e63bd0dbf77f4dcb207c847050b23b0e1f5aeb5327cc2d79e"
     },
 	{
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/LayarKacaProvider.cs3",
+        "iconUrl": "https://i.imgur.com/qwLT5PG.png",
+        "fileHash": "sha256-b2d0eb523801e132a1a6b89e21fae8ce7f7e7a61edb3ce520e78a71fc4bc9515",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "description": "Provider dengan Subtitle Indonesia Terbaik (direct Ext Cloud)",
+		"fileSize": 67422,
         "status": 1,
-        "version": 10,
-        "name": "LayarKacaProvider",
-        "internalName": "LayarKacaProvider",
+        "language": "id",
         "authors": [
             "Blaze"
         ],
-        "description": "Provider dengan Subtitle Indonesia Terbaik (source Phi s her)",
-        "fileSize": 88671,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze/",
-        "language": "id",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://i.imgur.com/qwLT5PG.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-1b1099cde8594ccb313a2037e76d8f1e7715ceafd3d05859150e96044e3fe3fd"
+        "version": 11,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
     },
     {
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
         "status": 1,
-        "version": 5,
+        "version": 7,
         "name": "MovieBox",
         "internalName": "MovieBox",
         "authors": [
             "Blaze"
         ],
-        "description": "MOVIEBOX source My Karane Short TV Berfungsi dan ada khusus pakai SEARCH juga bagus (INDONESIA)",
-        "fileSize": 91780,
-        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
+        "description": "MOVIEBOX direct My Karane Short TV Berfungsi dan ada khusus pakai SEARCH juga bagus (INDONESIA)",
+        "fileSize": 89267,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
             "TvSeries",
@@ -320,7 +293,7 @@
         ],
         "iconUrl": "https://i.imgur.com/dtIQAxr.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-7fda4ed3d4bd1ad5e4ee8a71b420ce97ebc4da93e748204a56320822757dc81e"
+        "fileHash": "sha256-e5ee7aa6b9ee1702b023619e5ac7908e5beb6421e286ed63bf8ba7921786aee4"
     },
 	{
         "iconUrl": "https://i.imgur.com/QHZ3v9h.png",
@@ -389,10 +362,10 @@
     },
 	{
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
-        "fileHash": "sha256-70f329360cd9c0a912b46473782e55d675deb3a1ebe30297325960e76079fb90",
+        "fileHash": "sha256-2c71c28994a181f54db7cae42ad57e2428d09b73374c66cf8055e30a0b0e1d7d",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
-        "fileSize": 21909,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 28323,
         "status": 1,
         "language": "id",
         "authors": [
@@ -403,10 +376,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 17,
         "internalName": "Oppadrama",
-        "description": "Oppadrama - Drama Asia untuk anda (Direct Mesra_S)",
-        "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/Oppadrama.cs3",
+        "description": "Oppadrama - Drama Asia untuk anda (Direct Ext Cloud)",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Oppadrama.cs3",
         "name": "Oppadrama"
     },
 	{
@@ -429,28 +402,6 @@
         "description": "Pencurimovie - direct Pend e xt cl o ud",
         "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Pencurimovie.cs3",
         "name": "Pencurimovie"
-    },
-	{
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v3.pusatfilm21info.com&size=%size%",
-        "fileHash": "sha256-4afcfefd85646e898741b4877dfa0047a66f6b1f8dc7a996075cd11089d2167b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 51540,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Blaze"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Pusatfilm21Provider",
-        "description": "Pusatfilm21 - direct Pend e xt cl o ud",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Pusatfilm21Provider.cs3",
-        "name": "Pusatfilm21Provider"
     },
 	{
         "iconUrl": "https://i.imgur.com/dFL1uBD.png",
