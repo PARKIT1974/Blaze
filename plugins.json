@@ -148,16 +148,16 @@
         "name": "FreeReels"
     },
 	{
-        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/Idlix.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/IDLIX.cs3",
         "status": 1,
-        "version": 10,
-        "name": "Idlix",
-        "internalName": "Idlix",
+        "version": 7,
+        "name": "IDLIX",
+        "internalName": "IDLIX",
         "authors": [
             "Blaze"
         ],
-        "description": "Movies & Series source Leaf",
-        "fileSize": 53616,
+        "description": "Movies & Series source My Ka ra ne",
+        "fileSize": 87219,
         "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
         "language": "id",
         "tvTypes": [
@@ -168,7 +168,7 @@
         ],
         "iconUrl": "https://i.imgur.com/X3I2M8M.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9e03132eb2d1454ec3d85c9a216b95c83fbcd010859341102e698563e2a66f40"
+        "fileHash": "sha256-4aee453b6a4c25cdfa29f12df6e2b3005d3fb7e76765af2d556d5833e7f2c1ec"
     },
 	{
     "iconUrl": "https://i.imgur.com/UvCzfJi.png",
@@ -273,7 +273,7 @@
         "fileHash": "sha256-5771129cbe318e43e2d1798129b15a714f6d388d4c827c42ad4a90d823a87e20"
     },
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
+        "url": "https://github.com/PARKIT1974/Blaze/raw/refs/heads/builds/MovieBox.cs3",
         "status": 1,
         "version": 7,
         "name": "MovieBox",
@@ -281,9 +281,9 @@
         "authors": [
             "Blaze"
         ],
-        "description": "MOVIEBOX direct My Karane Short TV Berfungsi dan ada khusus pakai SEARCH juga bagus (INDONESIA)",
-        "fileSize": 89267,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "description": "MOVIEBOX source My Karane Short TV Berfungsi dan ada khusus pakai SEARCH juga bagus (INDONESIA)",
+        "fileSize": 98748,
+        "repositoryUrl": "https://github.com/PARKIT1974/Blaze",
         "language": "id",
         "tvTypes": [
             "TvSeries",
@@ -293,7 +293,7 @@
         ],
         "iconUrl": "https://i.imgur.com/dtIQAxr.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-e5ee7aa6b9ee1702b023619e5ac7908e5beb6421e286ed63bf8ba7921786aee4"
+        "fileHash": "sha256-f70d49454f0d77f6b9f68a7da2a067ee1730daa374dd06224dbb7e64cde866f5"
     },
 	{
         "iconUrl": "https://i.imgur.com/QHZ3v9h.png",
