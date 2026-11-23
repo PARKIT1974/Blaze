@@ -2,13 +2,13 @@
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Adicinemax21.cs3",
         "status": 1,
-        "version": 10,
+        "version": 37,
         "name": "Adicinemax21",
         "internalName": "Adicinemax21",
         "authors": [
             "Blaze"
         ],
-        "fileSize": 130638,
+        "fileSize": 327842,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -18,18 +18,18 @@
         ],
         "iconUrl": "https://i.imgur.com/7p2D7vM.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a1f98a36280aa554df4e3c2b80586ea00ecfc45cf9dbdaf70a1c0c3d0178d7ca"
-    },
+        "fileHash": "sha256-a1b2cf2f5fc61e17ce0c8430b512468887a2d833dca21b01624fb49de16f1e4f"
+   	},
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiDrakor.cs3",
         "status": 1,
-        "version": 9,
+        "version": 32,
         "name": "AdiDrakor",
         "internalName": "AdiDrakor",
         "authors": [
             "Blaze"
         ],
-        "fileSize": 127112,
+        "fileSize": 327018,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -39,18 +39,18 @@
         ],
         "iconUrl": "https://i.imgur.com/C2BzoH1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-dd3a557e9e669de0f9609f5c82f8b3827afcdafeabeaaa4235fe84418b131340"
+        "fileHash": "sha256-51e0ea60726b23233814e34c32a74ba671b9e7e866a5e8109dfeba98a180ea78"
     },
 	{
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/AdiXtream.cs3",
         "status": 1,
-        "version": 13,
+        "version": 36,
         "name": "AdiXtream",
         "internalName": "AdiXtream",
         "authors": [
             "Blaze"
         ],
-        "fileSize": 88125,
+        "fileSize": 313474,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://i.imgur.com/IBEgnFc.png",
         "apiVersion": 1,
-        "fileHash": "sha256-696459b193f5ea8739de1cb2f2e1099897f75a23f290d439a7e0d8e24855ed02"
+        "fileHash": "sha256-cdb76767101ffd5e16167e02ec4768feb7fa445d1e008483a39e4a179f291d94"
     },
 	{
         "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
@@ -116,7 +116,7 @@
             "Blaze"
         ],
         "description": "4K Movies Extension by HDHUB4U (direct P h i sher)",
-        "fileSize": 100180,
+        "fileSize": 139935,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -125,7 +125,7 @@
         ],
         "iconUrl": "https://i.imgur.com/vghZj6g.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-2a74b05dff6bc726c4c940db46613a4a3c0eb75e2f408c1f717f6a9aaf910ce6"
+        "fileHash": "sha256-cdb76767101ffd5e16167e02ec4768feb7fa445d1e008483a39e4a179f291d94"
    },
    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
@@ -238,7 +238,7 @@
             "Blaze"
         ],
         "description": "KlikXXI direct Re pair Premium",
-        "fileSize": 28757,
+        "fileSize": 28808,
         "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
         "language": "id",
         "tvTypes": [
@@ -248,7 +248,7 @@
         ],
         "iconUrl": "https://i.imgur.com/qGb3dFr.png",
         "apiVersion": 1,
-        "fileHash": "sha256-df6d5d0d07fee80e63bd0dbf77f4dcb207c847050b23b0e1f5aeb5327cc2d79e"
+        "fileHash": "sha256-363197b8c788d050f36692626d2de20d71d9f9ce331401a2594cfef158385913"
     },
 	{
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
@@ -260,7 +260,7 @@
             "Blaze"
         ],
         "description": "Provider dengan Subtitle Indonesia Terbaik (direct Phi sh er)",
-		"fileSize": 81783,
+		"fileSize": 121015,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "id",
         "tvTypes": [
@@ -270,7 +270,7 @@
         ],
         "iconUrl": "https://i.imgur.com/qwLT5PG.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ab4c1576695e5be60d542d19326d2d7180dd1ac4ecf7daa98304a92ab39f4410"
+        "fileHash": "sha256-5771129cbe318e43e2d1798129b15a714f6d388d4c827c42ad4a90d823a87e20"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
